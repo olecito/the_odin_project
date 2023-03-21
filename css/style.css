@@ -1,0 +1,23 @@
+:root {
+    --darkBGcolor: #1f2937;
+    --hero: ;
+    --buttonColors: #5b2ca8;
+}
+
+html {
+
+    box-sizing: border-box;
+    
+    font-size: 62,5%;
+    
+    }
+    
+      
+    
+    *, *::before, *::after {
+    
+    box-sizing: inherit;
+    
+    }
+
+    
